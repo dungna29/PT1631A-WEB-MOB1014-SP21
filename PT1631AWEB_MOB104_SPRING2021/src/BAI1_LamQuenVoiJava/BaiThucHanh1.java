@@ -27,7 +27,7 @@ public class BaiThucHanh1 {
     public static void main(String[] args) {
          //Bước 1: Khai báo biến hoặc thư viện 
          Scanner sc = new Scanner(System.in);
-         double diem1,diem2;
+         double diem1, diem2;
          //Bước 2: Triển khai thu thập dữ liệu
          System.out.println("Mời bạn nhập điểm số 1: ");
          diem1 = sc.nextDouble();
