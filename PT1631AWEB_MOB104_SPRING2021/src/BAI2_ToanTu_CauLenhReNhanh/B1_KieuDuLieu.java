@@ -50,5 +50,6 @@ public class B1_KieuDuLieu {
         System.out.println(Byte.MIN_VALUE);
         
         //Các bạn có thể thử tìm các giá trị max min của các kiểu dữ liệu khác theo cách trên.
+        
     }
 }
