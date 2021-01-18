@@ -38,6 +38,7 @@ public class B2_TRY_CATCH {
             int a = sc.nextInt();
             System.out.println(a);
         } catch (Exception e) {
+            
         }
 
     }

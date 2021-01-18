@@ -33,5 +33,6 @@ public class B1_ChuongTrinhDauTien {
         //In ra màn hình sout + tab
         System.out.println("Chào các bạn JAVA1");
         
+        
     }
 }
