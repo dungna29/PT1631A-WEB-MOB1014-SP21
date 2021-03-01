@@ -71,7 +71,8 @@ public class Main {
         //Viết 2 chức năng:
         // - Thêm mới 1 bảo vệ
         // - Thêm nhiều bảo vệ
-        // Lưu ý cố gắng kế thừa phương thức inRaManHinh của lớp bảo vệ và sử dụng lại trên Class con BaoVe
+        // Lưu ý cố gắng kế thừa phương thức inRaManHinh() của lớp bảo vệ và sử dụng 
+        //lại trên Class con BaoVe
     }
 
     static void phuongThuc() {
